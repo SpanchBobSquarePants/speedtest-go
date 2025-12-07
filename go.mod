@@ -1,3 +1,3 @@
-module github.com/Mahdi-zarei/speedtest-go
+module github.com/showwin/speedtest-go
 
 go 1.19
